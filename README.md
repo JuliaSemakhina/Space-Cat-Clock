@@ -1,2 +1,2 @@
 # Space-Cat-Clock
-Simple clock with cat
+Simple clock with animated cat
